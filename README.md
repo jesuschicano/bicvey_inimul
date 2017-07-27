@@ -1,1 +1,3 @@
-# bicvey_inimul
+# BICVEY
+## Pannel administration v-1.0.
+### Let's start installation of Laravel framework and a first impression of the project.
